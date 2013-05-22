@@ -1,0 +1,7 @@
+﻿-- SackAssist
+-- Fork from DagAssist v 2, originally by Dagos
+
+
+1.0
+* Initial fork
+* Add support for Equipment Manager sets

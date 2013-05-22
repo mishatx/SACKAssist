@@ -1,0 +1,12 @@
+## Interface: 50300
+## Title: SackAssist
+## Author: SACK
+## Notes: Convenient shortcut menu
+## Version: 1.0
+## DefaultState: enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: SA_Vars
+
+SackAssist_Menu.lua
+SackAssist.xml
+SackAssist.lua
