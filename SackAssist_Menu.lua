@@ -290,7 +290,8 @@ SackAssist.MenuList = {
 
 		{["type"] = "item", ["id"] = 65360}, --Cloak of Coordination (Stormwind)
 		{["type"] = "item", ["id"] = 65274}, --Cloak of Coordination (Stormwind)
-		
+
+		{["type"] = "item", ["id"] = 110560}, -- Garrison Hearthstone		
 
 	
 	--{["type"] = "spacer"}
